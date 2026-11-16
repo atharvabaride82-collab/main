@@ -1,0 +1,6 @@
+path: /home/atharva/smart_garbage_detection/dataset
+train: train/images
+val: valid/images
+test: test/images
+nc: 2
+names: ['Garbage', 'Not Garbage']
